@@ -28,4 +28,7 @@ Como Ensinar uma rede neural a jogar através de Double Deep-Q Reinforcement-Lea
 Aprendizado de reforço depende de um único agente quebrando a cabeça de novo e de novo até ele entender o que fazer, o que é bem diferente de um algoritmo genético onde deixamos mil jogadores se matarem para  deixando os melhores vivos e repetir o processo nos seus decendentes até sair algum muito bom. Então se prepare porque o treino vai demorar bastaaante.
 
 DQ-RL é, no geral, mais difícil de entender do que outros métodos de machine learning, então necessita de um bom tempo encarando o código pra fazer sentido de como tudo se encaixa.
+
+# Pong_game:
+O clássico jogo de pong (para 2 jogadores) recriado usando pygame e a engine de física pymunk.
  
